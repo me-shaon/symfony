@@ -1809,7 +1809,7 @@ Symfony is the result of the work of many people who made the code better
  - Romain Dorgueil
  - Christopher Parotat
  - Dennis Haarbrink
- - me_shaon
+ - Ahmed Shamim (me_shaon)
  - 蝦米
  - Grayson Koonce (breerly)
  - Andrey Helldar (helldar)
